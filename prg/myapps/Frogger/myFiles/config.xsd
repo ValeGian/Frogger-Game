@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="ParametriDiConfigurazione">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="ipClient" type="xs:string"/>
+                <xs:element name="ipServerLog" type="xs:string"/>
+                <xs:element name="portaServerLog" type="xs:integer"/>
+                <xs:element name="ipDatabase" type="xs:string"/>
+                <xs:element name="portaDatabase" type="xs:integer"/>
+                <xs:element name="usernameDatabase" type="xs:string"/>
+                <xs:element name="passwordDatabase" type="xs:string"/>
+                <xs:element name="coloreBackgroundApplicazione" type="xs:string"/>
+                <xs:element name="colorePulsanteNewGame" type="xs:string"/>
+                <xs:element name="colorePulsanteStop" type="xs:string"/>
+                <xs:element name="colorePulsanteResume" type="xs:string"/>
+                <xs:element name="numeroRigheTabella" type="xs:integer"/>
+                <xs:element name="dataIniziale" type="xs:date"/>
+                <xs:element name="numeroRaneIniziale" type="xs:integer"/>
+                <xs:element name="secondiPerRana" type="xs:integer"/>
+                <xs:element name="urlPannelloDiGioco" type="xs:string"/>
+                <xs:element name="urlParete" type="xs:string"/>
+                <xs:element name="larghezzaPareteInPixels" type="xs:integer"/>
+                <xs:element name="urlRana" type="xs:string"/>
+                <xs:element name="larghezzaRanaInPixels" type="xs:integer"/>
+                <xs:element name="listaOggettiDiGiocoGenerabili">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="OggettoDinamicoDiGioco" minOccurs="0" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="nome" type="xs:string"/>
+                                        <xs:element name="urlImmagine" type="xs:string"/>
+                                        <xs:element name="larghezzaInPixels" type="xs:integer"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
