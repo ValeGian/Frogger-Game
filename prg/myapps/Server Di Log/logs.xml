@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-04-18 18:28:42</timestamp>
+  <etichetta>APPLICATION START</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-04-18 18:28:50</timestamp>
+  <etichetta>APPLICATION CLOSURE</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</EventoDiNavigazione>
+
