@@ -1,4 +1,4 @@
-# a Java version of Frogger game (<a>https://en.wikipedia.org/wiki/Frogger<a>) developed using javaFX. 
+# a Java version of Frogger game (<a>https://en.wikipedia.org/wiki/Frogger<a>) developed using javaFX
 
 To start the application:
 1) Download the "prg" folder in your "C:\" folder
