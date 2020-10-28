@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:13:57</timestamp>
+  <etichetta>APPLICATION START</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:28:32</timestamp>
+  <etichetta>APPLICATION START</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:28:40</timestamp>
+  <etichetta>NEW GAME</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:28:50</timestamp>
+  <etichetta>STOP</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:28:57</timestamp>
+  <etichetta>APPLICATION CLOSURE</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:29:19</timestamp>
+  <etichetta>APPLICATION START</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:29:29</timestamp>
+  <etichetta>APPLICATION CLOSURE</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:31:06</timestamp>
+  <etichetta>APPLICATION START</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:31:11</timestamp>
+  <etichetta>NEW GAME</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+  <ipClient>127.0.0.1</ipClient>
+  <timestamp>2020-10-28 18:31:16</timestamp>
+  <etichetta>APPLICATION CLOSURE</etichetta>
+  <nomeApplicazione>Frogger</nomeApplicazione>
+</it.unipi.dii.inginf.vGiannini.adprg.EventoDiNavigazione>
+
