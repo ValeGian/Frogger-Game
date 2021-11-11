@@ -1,2 +1,2 @@
 # Frogger-Game
-A Java version of Frogger game (<a>https://en.wikipedia.org/wiki/Frogger<a>) developed using javaFX
+A Java version of [Frogger game](https://en.wikipedia.org/wiki/Frogger) developed using javaFX. Please, check the [Documentation](Documentation.pdf) for a complete view. 
